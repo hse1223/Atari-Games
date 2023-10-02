@@ -1,0 +1,4 @@
+MMDRL
+- only tried gaussian kernels.
+- For Breakout, a single bandwidth did not work for the big size data (Nguyen's setting), but worked for small size data (Simple Setting).
+- For Nguyen's setting, only bandwidth-mixture (1~10) worked well.
