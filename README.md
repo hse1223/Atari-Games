@@ -1,7 +1,7 @@
 # 1. Requirements
 - Python 3.9.13 (or higher)
 - torch 1.13.1+cu116
-- Ingrain Roms.py into python. This is feasible by running "python -m atari_py.import_roms". If successful, it is listed by "- print(atari_py.list_games())".
+- After unzipping Roms.zip, ingrain it into python. This is feasible by running "python -m atari_py.import_roms". If successful, it is listed by "- print(atari_py.list_games())".
 
 # 2. Code Explanation
 
